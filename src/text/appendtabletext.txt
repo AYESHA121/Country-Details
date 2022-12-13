@@ -1,0 +1,31 @@
+/ const TableAppend=(response)=>{
+    //     let row = document.createElement("tr");
+    //     setRowNum((prev) => prev + 1)
+
+    //     let table = document.getElementById("tableBody");
+    //     table.appendChild(row)
+    //     let txt = "";
+    //     for (let x in response[0].languages) {
+    //         txt += response[0].languages[x] + "\n ";
+    //     }
+
+    //     let cell1 = row.insertCell(0).innerHTML = RowNum;
+    //     let cell2 = row.insertCell(1).innerHTML = Name
+    //     let cell3 = row.insertCell(2).innerText = response[0].name.official;
+    //     let cell4 = row.insertCell(3).innerText = txt;
+    //     let cell5 = row.insertCell(4).appendChild(document.createElement("button"));
+    //     cell5.innerText="view";
+    //     cell5.className = "btn btn-primary";
+    // }
+    // if(props.array !==null){
+
+    //     updatearray.push(props.array[0])
+    // }
+   // updatearray.push(props.array)
+    console.log(value)
+    // const stateUpdating=(element)=>{
+    //     setobj(element);
+    //     selectedObj=element;
+    //   //  console.log(selectedObj)
+    // }
+    // console.log(value)
